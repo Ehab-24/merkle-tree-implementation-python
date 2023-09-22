@@ -11,3 +11,7 @@ To run the program:
 3. Run `make run` to run the program.
 
 > Note: All hash values, for membership proofs, are hard-coded inside _data.py_
+
+### Credits
+
+This [implementation was first written in Go](https://github.com/Ehab-24/merkle-tree-implementation)
